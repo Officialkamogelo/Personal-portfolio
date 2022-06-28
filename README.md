@@ -1,6 +1,6 @@
 # Personal-portfolio
 Creating a personal portfolio using 
-html Css project
+HTML CSS
 
 
 ## Technologies used
