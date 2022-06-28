@@ -22,7 +22,6 @@ html Css project
 -   Twitter: [@Artickamogelo](https://twitter.com/KamogeloMahlangu)
 -   Linkedin: [linkedin](https://www.linkedin.com/in/kamogelo-ben-mokwana)
 -   Email: <Kamogelomokwana@outlook.com>
--   
 
 ## 🤝 Contributing
 
