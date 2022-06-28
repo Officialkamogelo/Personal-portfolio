@@ -1,5 +1,5 @@
 # Personal-portfolio
- Creating a personal portfolio 
+Creating a personal portfolio 
 html Css project
 ![image]()
 
@@ -11,7 +11,7 @@ html Css project
 
 ## Live Demo
 
-[Live Demo Link]
+[Live Demo Link] https://62bb0b74e502b81783bec944--monumental-pixie-0740cd.netlify.app/
 
 ## Authors
 
@@ -20,9 +20,9 @@ html Css project
 -   Github: [@Officialkamogelo](https://github.com/Officialkamogelo)
 -   Instagram [@Kamogelo.dev](htpps://instagram.com/Kamogelo.dev)
 -   Twitter: [@Artickamogelo](https://twitter.com/KamogeloMahlangu)
--   Linkedin: [linkedin]https://www.linkedin.com/in/kamogelo-ben-mokwana)
--   <Kamogelomokwana@outlook.com>
--   <https://resume.netlify.com/>
+-   Linkedin: [linkedin](https://www.linkedin.com/in/kamogelo-ben-mokwana)
+-   Email: <Kamogelomokwana@outlook.com>
+-   
 
 ## 🤝 Contributing
 
